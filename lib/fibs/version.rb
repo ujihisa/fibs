@@ -1,3 +1,3 @@
-module Fibs
-  VERSION = "0.0.1"
+class Fibs
+  VERSION = '1.0'
 end

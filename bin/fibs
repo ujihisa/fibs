@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+$: << File.dirname(File.expand_path(__FILE__)) + '/../lib/'
+require 'fibs'
+puts Fibs.(ARGV.shift.to_i)

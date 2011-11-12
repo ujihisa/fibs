@@ -6,10 +6,10 @@ Gem::Specification.new do |s|
   s.name        = "fibs"
   s.version     = Fibs::VERSION
   s.authors     = ["ujihisa"]
-  s.email       = ["ujihisa@gmail.com"]
+  s.email       = ["ujihisa at gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Get Fibonacci sequence!}
+  s.description = %q{Get Fibonacci sequence!}
 
   s.rubyforge_project = "fibs"
 
